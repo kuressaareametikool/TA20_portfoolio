@@ -22,4 +22,6 @@
 
 ## 2. Prototüüpimine
 
+[Figma link](https://www.figma.com/proto/SCfzWL1S0uix6f6PmPcbG0/Karl-Mihkel?node-id=1%3A2&viewport=504%2C454%2C0.5099492073059082&scaling=min-zoom)
+
 ## 3. Teostus
