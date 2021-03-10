@@ -11,11 +11,14 @@
 - [Pierre Nel](https://pierre.io/) - mõnus 3D, efektne
 - [Underlevel](https://pierre.io/) - kena on, toimib
 
+Seadsin omale eesmärgiks luua minimalistlik üheleheline portfoolio. Eesmärk oli teha leht vastavalt oma oskustasemele, kuid siiski jätta omale ka mõningad väljakutsed.
+
 ### Struktuur
 - Lihtne tervitus
 - Ülevaade tehtud töödest
     - Node projekt
     - Tunniplaaniprojekt
+    - Pildiraadio leht
     - veel miskit
 - Kontakt
 
