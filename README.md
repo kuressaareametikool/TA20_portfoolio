@@ -15,10 +15,10 @@ Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia joo
 - [Behance](https://www.behance.net/search/projects?field=ui%2Fux) - adobe inspiratsiooniplatvorm
 
 ## 2. Struktuur
-  Home
-  About
-  Portfolio
-  Kontakt
+ - Home
+ - About
+ - Portfolio
+ - Kontakt
 
 ## 3. Prototüüp 
    - [Figma](https://www.figma.com/file/ZdeP6cDCAWLrePL4ft3iK4/Gerli?node-id=0%3A1)
