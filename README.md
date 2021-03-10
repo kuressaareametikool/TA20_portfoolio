@@ -19,6 +19,7 @@ Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia joo
 #### Tehtud tööd
 - Node chat app
 - Frontend-katsetus w/ Rando
+- Tahvli prototüüp
 #### About
 #### Kontakt
 
