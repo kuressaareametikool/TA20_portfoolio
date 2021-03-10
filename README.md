@@ -1,6 +1,5 @@
 # TA20_portfoolio - Mattias
 
-Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia jooksvalt materjalid kokku koguda. Projekt jätkub tõenäoliselt läbi Rando, Oliveri ja Nauka tundide ka. Readme-faili on kõik pull-requestid oodatud, portfooliote enniste repod võiks vist ka siia alla branchidena tekitada?
 
 ## 1. Analüüs - Kõigepealt inspiratsiooni - 
 
