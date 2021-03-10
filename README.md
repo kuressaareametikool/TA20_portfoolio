@@ -1,6 +1,6 @@
 # TA20_portfoolio 
-## Kodulehe struktuur
-### What?
+
+### Hi — I’m Lelet Hollo.
 ### Work?
 ### About?
 ### Contact?
