@@ -21,3 +21,9 @@ Besides those school projects, I'm also maintaining and providing copywriting se
 
 
 - How to find me?
+e-mail: andra.vabar@gmail.com
+phone: +372 53448001
+FB: @andravabar
+Linkedin: Andra Vabar
+
+Contact here:
