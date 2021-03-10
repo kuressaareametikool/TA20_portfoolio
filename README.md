@@ -11,6 +11,14 @@
 - [Pierre Nel](https://pierre.io/) - mõnus 3D, efektne
 - [Underlevel](https://pierre.io/) - kena on, toimib
 
+### Struktuur
+- Lihtne tervitus
+- Ülevaade tehtud töödest
+    - Node projekt
+    - Tunniplaaniprojekt
+    - veel miskit
+- Kontakt
+
 
 ## 2. Prototüüpimine
 
