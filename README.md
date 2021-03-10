@@ -18,6 +18,6 @@ Besides those school projects, I'm also maintaining and providing copywriting se
 2. www.keelesumin.ee
 
 - Who am I?
-\
+
 
 - How to find me?
