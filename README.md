@@ -15,12 +15,12 @@ Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia joo
 - [Behance](https://www.behance.net/search/projects?field=ui%2Fux) - adobe inspiratsiooniplatvorm
 
 ### Kodulehe struktuur
-- Sissejuhatus
-- Tehtud tööd
+#### Sissejuhatus
+#### Tehtud tööd
 - Node chat app
 - Frontend-katsetus w/ Rando
-- About
-- Kontakt
+#### About
+#### Kontakt
 
 ## 2. Prototüüpimine  
 
