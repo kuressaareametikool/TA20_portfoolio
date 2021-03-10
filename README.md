@@ -14,6 +14,11 @@ Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia joo
 - [Pinterest](https://www.pinterest.com/search/pins/?q=portfolio%20website%20design&rs=guide&term_meta[]=portfolio%7Ctyped&add_refine=portfolio%20website%20design%7Cguide%7Cword%7C11) - päris hea seotud piltide otsinguga inpsiratsioonisait
 - [Behance](https://www.behance.net/search/projects?field=ui%2Fux) - adobe inspiratsiooniplatvorm
 
-## 2. Prototüüpimine  
+## 2. Struktuur
+  Home
+  About
+  Portfolio
+  Kontakt
 
-## 3. Teostus  
+## 3. Prototüüp 
+   - [Figma](https://www.figma.com/file/ZdeP6cDCAWLrePL4ft3iK4/Gerli?node-id=0%3A1)
