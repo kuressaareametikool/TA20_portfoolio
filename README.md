@@ -1,6 +1,6 @@
 # TA20 portfolio - Rainis
 
-## Introduction
+
 
 
 ## Projects
