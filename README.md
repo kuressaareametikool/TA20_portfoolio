@@ -12,6 +12,7 @@ I'm currently studying the software development in a Regional Training Centre, a
 -- Upgrading the Timetable called _TAHVEL_
 -- Upgrading the mobile view of Timetable called _TAHVEL_
 -- Node-project and developing additional functionality to it
-Besides those school projects, I'm also maintaining and providing copywriting following websites:
+
+\Besides those school projects, I'm also maintaining and providing copywriting following websites:
 -- www.saarevolley.ee
 -- www.keelesumin.ee
