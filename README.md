@@ -16,4 +16,6 @@ Teeme algust suurema frondi-projektiga, arendaja portfoolioga. Proovime siia joo
 
 ## 2. Prototüüpimine  
 
+[figma portfoolio-projekt](https://www.figma.com/files/project/26058109/Portfoolio)
+
 ## 3. Teostus  
