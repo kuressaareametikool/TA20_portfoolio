@@ -12,13 +12,19 @@ I'm currently studying the software development in a Regional Training Centre, a
 \
 1. Upgrading the Timetable called _TAHVEL_
 2. Upgrading the mobile view of Timetable called _TAHVEL_
-3. Node-project and developing additional functionality to it
+3. Node-project and developing additional functionality of the game "Wordguess" into it
+4. Creating a Brochure using the SCRUM
 
 \
-Besides those school projects, I'm also maintaining and providing copywriting services to following websites:
+Besides those school projects, I'm also maintaining and providing copywriting services to following websites, which I also helped to develop:
 \
 1. www.saarevolley.ee
 2. www.keelesumin.ee
+
+- Tools, software and applications
+\
+Wordpress, Figma, VS Code, Github
+
 
 - Who am I?
 
