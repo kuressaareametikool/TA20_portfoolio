@@ -1,4 +1,4 @@
-# TA20_portfoolio - Rainis
+# TA20 portfoolio - Rainis
 
 ## Sissejuhatus
 
