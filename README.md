@@ -1,6 +1,14 @@
 # TA20_portfoolio  - Timo
 
-##Structure
+- Introduction
+
 - Finished projects
- -Tahvel timetable rework
- -Node chat
+  - Tahvel timetable rework
+  - Node chat
+
+- About
+
+- Contact
+  - E-mail link
+  - Slack
+  - Facebook/Messenger
