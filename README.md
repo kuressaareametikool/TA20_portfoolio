@@ -1,21 +1,18 @@
-# TA20 portfoolio - Rainis
+# TA20 portfolio - Rainis
 
-## Sissejuhatus
+## Introduction
 
 
-## Projektid
-<ul>
-  <li> Tunniplaan Front end</li>
-   <li> </li>
-   <li>A-frame ja Node js</li>
-  
-  </ul>
+## Projects
+### Timetable
 
-## Kontakt
+### Online VR game
+
+## Contact information
 rainis.tiirik9gmail.com
 
 
-## Minu kohta
+
 
 
   
