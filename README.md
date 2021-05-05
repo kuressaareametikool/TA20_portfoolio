@@ -5,5 +5,5 @@
   - Tunniplaanid desktopivaatena ja app-is 
   - VR-game
   - Brošüür
-- About
+- Kohta
 - Kontakt
